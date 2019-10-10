@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Abel&display=swap");
+
+#episodes-container {
+  margin-top: 25px;
+}
+h2 {
+  margin-bottom: 2.5rem;
+}
+h5 {
+  font-family: "Abel", sans-serif;
+}
+li {
+  list-style: none;
+}
+.ratings {
+  text-align: center;
+}
+.fa-star {
+  color: gold;
+  margin-left: 10px;
+}
+
+.btn-outline-secondary {
+  margin-left: 25px;
+}

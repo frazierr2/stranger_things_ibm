@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Orbitron&display=swap");
+
 #header-container {
   padding: 0;
 }
@@ -7,7 +9,8 @@
 }
 #company-title {
   line-height: 2.4;
-  color: #bb201e;
+  color: #c0392b;
+  font-family: "Orbitron", sans-serif;
 }
 #language-container {
   text-align: right;
@@ -26,4 +29,7 @@
 #show-title {
   margin-top: 15px;
   color: #bb201e;
+  font-family: "Orbitron", sans-serif;
+  text-shadow: -1px -1px 0 grey, 1px -1px 0 grey, -1px 1px 0 grey,
+    1px 1px 0 grey;
 }

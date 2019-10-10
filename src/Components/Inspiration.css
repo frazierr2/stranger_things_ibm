@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Hi+Melody&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Nova+Cut&display=swap");
+
+#inspiration-container {
+  margin-top: 15px;
+}
+h2 {
+  margin-bottom: 2.5rem;
+  border-bottom: 2px solid #e0e0e0;
+  border-top: 2px solid #e0e0e0;
+  padding: 10px;
+  margin-right: -28px;
+  margin-left: -28px;
+  padding-left: 25px;
+  font-family: "Nova Cut", cursive;
+}
+#logo-container {
+  margin: auto;
+}
+
+.description-text {
+  margin-top: 50px !important;
+}
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+p {
+  font-family: "Hi Melody", cursive;
+  font-size: 25px;
+}

@@ -1,0 +1,19 @@
+#gallery-container {
+  margin-top: 25px;
+}
+h2 {
+  margin-bottom: 2.5rem;
+}
+
+ul {
+  padding-left: 25px;
+}
+
+.carousel {
+  width: 80%;
+  margin: auto;
+}
+
+.location-column {
+  margin: auto;
+}
