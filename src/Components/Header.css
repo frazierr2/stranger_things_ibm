@@ -33,3 +33,15 @@
   text-shadow: -1px -1px 0 grey, 1px -1px 0 grey, -1px 1px 0 grey,
     1px 1px 0 grey;
 }
+
+@media only screen and (max-width: 560px) {
+  #company-title {
+    font-size: 12px;
+  }
+  #show-title h1 {
+    font-size: 1.9rem;
+  }
+  .navbar-row {
+    justify-content: center;
+  }
+}

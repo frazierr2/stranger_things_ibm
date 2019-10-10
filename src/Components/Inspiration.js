@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./Inspiration.css";
-import ReactPlayer from "react-player";
 
 // Bootstrap Imports
 import Container from "react-bootstrap/Container";

@@ -36,3 +36,15 @@ p {
   font-family: "Hi Melody", cursive;
   font-size: 25px;
 }
+
+@media only screen and (max-width: 560px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+  p {
+    font-size: 20px;
+  }
+  #description-container {
+    margin-top: 20px;
+  }
+}

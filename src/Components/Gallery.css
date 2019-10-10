@@ -17,3 +17,13 @@ ul {
 .location-column {
   margin: auto;
 }
+
+@media only screen and (max-width: 560px) {
+  .carousel {
+    width: 100%;
+  }
+  .location-column {
+    width: 50%;
+    margin-top: 20px;
+  }
+}
