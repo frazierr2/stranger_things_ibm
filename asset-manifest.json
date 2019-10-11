@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/stranger_things_ibm/static/css/main.388d69b5.chunk.css",
+    "main.js": "/stranger_things_ibm/static/js/main.a3bfa729.chunk.js",
+    "main.js.map": "/stranger_things_ibm/static/js/main.a3bfa729.chunk.js.map",
+    "runtime-main.js": "/stranger_things_ibm/static/js/runtime-main.aaf5d6af.js",
+    "runtime-main.js.map": "/stranger_things_ibm/static/js/runtime-main.aaf5d6af.js.map",
+    "static/css/2.0624914a.chunk.css": "/stranger_things_ibm/static/css/2.0624914a.chunk.css",
+    "static/js/2.ded7fec6.chunk.js": "/stranger_things_ibm/static/js/2.ded7fec6.chunk.js",
+    "static/js/2.ded7fec6.chunk.js.map": "/stranger_things_ibm/static/js/2.ded7fec6.chunk.js.map",
+    "index.html": "/stranger_things_ibm/index.html",
+    "precache-manifest.60aeb041ec82d31371c88b9be2585ae5.js": "/stranger_things_ibm/precache-manifest.60aeb041ec82d31371c88b9be2585ae5.js",
+    "service-worker.js": "/stranger_things_ibm/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/stranger_things_ibm/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.388d69b5.chunk.css.map": "/stranger_things_ibm/static/css/main.388d69b5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf5d6af.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.ded7fec6.chunk.js",
+    "static/css/main.388d69b5.chunk.css",
+    "static/js/main.a3bfa729.chunk.js"
+  ]
+}
